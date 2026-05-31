@@ -3,9 +3,9 @@
 
 ## 📌 Project Overview
 
-This project analyzes Netflix user behavior data to uncover patterns in content preferences, subscription plans, audience demographics, watch time, and revenue generation. The objective is to transform raw user data into meaningful business insights that support better decision-making and improve customer engagement.
+This project focuses on analyzing Netflix user behavior to gain deeper insights into audience preferences, subscription trends, content performance, and revenue distribution. By leveraging data analytics techniques, the project aims to identify meaningful patterns that can help improve user engagement, optimize content strategies, and support business growth.
 
----
+
 
 ## 🎯 Objectives
 
