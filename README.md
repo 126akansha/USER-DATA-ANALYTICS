@@ -77,11 +77,11 @@ The dataset contains information related to:
 
 ## 📷 Dashboard Preview
 
-![Netflix Dashboard](dashboard_preview.png)
 
-> Replace `dashboard_preview.png` with your uploaded dashboard screenshot file name.
 
----
+
+
+
 
 ## 🏁 Conclusion
 
