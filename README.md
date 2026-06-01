@@ -77,7 +77,7 @@ The dataset contains information related to:
 
 ## 📷 Dashboard Preview
 
-![Netflix Dashboard](Netflix_Dashboard.png)
+![Netflix Dashboard](netflix_dashboard.png)
 
 
 
