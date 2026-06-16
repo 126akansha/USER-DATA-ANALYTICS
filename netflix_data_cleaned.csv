@@ -1,4 +1,4 @@
-User_ID,Name,Age,Profile_Type,Gender,Country,Subscription_Plan,Favorite_Genre,Watch_Time_Hours_Per_Week,Device_Used,Monthly_Spend_USD,Join_Date,Last_Login,Movies_Watched_Per_Month,Bing_Watcher
+User_ID,Name,Age,Profile_Type,Gender,Country,Subscription_Plan,Favorite_Genre,Watch_Time_Hours_Per_Week,Device_Used,Monthly_Spend_USD,Join_Date,Last_Login,Movies_Watched_Per_Month,Binge_Watcher
 1,David Mendoza,30,Adult,Female,UK,Premium,Animation,48,Laptop,8.69,2023-03-05,2026-06-08,26,Yes
 2,Erik Wood,64,Adult,Female,UK,Basic,Romance,31,Mobile,6.21,2024-02-19,2026-01-20,13,Yes
 3,Courtney Clark,35,Adult,Male,Germany,Premium,Animation,22,Laptop,14.11,2021-11-07,2026-05-09,32,No
